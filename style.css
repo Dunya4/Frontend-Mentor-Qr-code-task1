@@ -5,6 +5,7 @@
 }
 body{
     background-color:  hsl(212, 45%, 89%) ;
+    width: 1440px;
 }
 img{
     /* height: 200px;
